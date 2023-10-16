@@ -1,12 +1,10 @@
-<style>
-      body {
+body {
         width: 90%;
         max-width: 1000px;
         margin: 6em auto;
         font: .9em/1.2 Arial, Helvetica, sans-serif;
       }
-
-      .griditem1 
+griditem1 
 	  div {
         border-radius: 20px;
         padding: 20px;
@@ -17,7 +15,7 @@
         font-size: 30px;
       }
 
-      .griditem1
+griditem1
 	  {
         display: grid;
         grid-template-areas:"header header header"
@@ -29,4 +27,4 @@
       }
 	 
 	  
-    </style>
+    
